@@ -1,6 +1,6 @@
 require(['gitbook', 'jQuery'], function(gitbook, $) {
   gitbook.events.bind('start', function(e, config) {
-    var conf = config['download-book'];
+    var conf = config['get-book'];
     var label = conf.label;
     var url = conf.url;
 

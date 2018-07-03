@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugin-download-book",
+  "name": "gitbook-plugin-get-book",
   "version": "0.0.1",
   "description": "This is a Gitbook plugin for downloading pdf eBook",
   "engines": {
